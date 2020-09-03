@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "Unsupervised Outlier Detection in Appearance-Based Gaze Estimation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+excerpt: 'This paper is outlier detection in eye gaze vector prediction in image data.'
+date: 2019-11-01
+venue: 'ICCV'
+paperurl: 'https://openaccess.thecvf.com/content_ICCVW_2019/papers/RLQ/Chen_Unsupervised_Outlier_Detection_in_Appearance-Based_Gaze_Estimation_ICCVW_2019_paper.pdf'
+citation: 'Chen, Zhaokang, et al. &quot;Unsupervised Outlier Detection in Appearance-Based Gaze Estimation.&quot; <i>Proceedings of the IEEE International Conference on Computer Vision Workshops</i>. 2019.'
