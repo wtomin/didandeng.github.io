@@ -24,7 +24,9 @@ Teaching
 =======
 - Teaching Assistant
 -- EESM5720: Signal Analysis and Pattern Recognition
+
 -- ELEC5300: Stochastic Processes
+
 -- ELEC1200： A System View of Communications: from Signals to Packets
 
 Industry Project
