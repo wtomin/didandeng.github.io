@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently  a fifth-year PhD student in [ECE department](https://www.ece.ust.hk/), Hong Kong University of Science and Technology. My supervisor is Professor [Bertram Emil Shi](https://eebert.home.ece.ust.hk/).
+- I am currently  a fifth-year Ph.D. student in [ECE department](https://www.ece.ust.hk/), Hong Kong University of Science and Technology. My supervisor is Professor [Bertram Emil Shi](https://eebert.home.ece.ust.hk/).
 
 - I received my Bachelor's Degree in [Fudan University](https://www.fudan.edu.cn/en/), majored in Electrical Engineering. My undergraduate research supervisor is Professor [Yandan, Lin](http://www.it.fudan.edu.cn/En/Data/View/1796).
 
