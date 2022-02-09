@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently  a fourth-year PhD student in [ECE department](https://www.ece.ust.hk/), Hong Kong University of Science and Technology. My supervisor is Professor [Bertram Emil Shi](https://eebert.home.ece.ust.hk/).
+- I am currently  a fifth-year PhD student in [ECE department](https://www.ece.ust.hk/), Hong Kong University of Science and Technology. My supervisor is Professor [Bertram Emil Shi](https://eebert.home.ece.ust.hk/).
 
 - I received my Bachelor's Degree in [Fudan University](https://www.fudan.edu.cn/en/), majored in Electrical Engineering. My undergraduate research supervisor is Professor [Yandan, Lin](http://www.it.fudan.edu.cn/En/Data/View/1796).
 
@@ -38,6 +38,11 @@ Teaching
 
 - ELEC1200： A System View of Communications: from Signals to Packets
 
-Industry Project
+Technical Experience
+======
+- 2020-09 - present: Teaching Assistant Coordinator, providing support to GTAs and the deparment.
+
+
+Technical Experience
 ======
 - 2020-02 - present: Cooperating with Bright Nation Limited on risk profiling application.
